@@ -1,4 +1,4 @@
-﻿string[] mass1 = ["Hgggo", "2", "ld", ":-)"];
+﻿string[] mass1 = ["Hello", "2", "world", ":-)"];
 int size_mass2 = 0;
 
 for (int i = 0; i < mass1.Length; i++)
